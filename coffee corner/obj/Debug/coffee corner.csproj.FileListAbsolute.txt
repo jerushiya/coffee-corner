@@ -1,0 +1,9 @@
+C:\Users\ELCOT\Documents\Visual Studio 2012\Projects\coffee corner\coffee corner\bin\Debug\coffee corner.exe.config
+C:\Users\ELCOT\Documents\Visual Studio 2012\Projects\coffee corner\coffee corner\bin\Debug\coffee corner.exe
+C:\Users\ELCOT\Documents\Visual Studio 2012\Projects\coffee corner\coffee corner\bin\Debug\coffee corner.pdb
+C:\Users\ELCOT\Documents\Visual Studio 2012\Projects\coffee corner\coffee corner\obj\Debug\coffee corner.csprojResolveAssemblyReference.cache
+C:\Users\ELCOT\Documents\Visual Studio 2012\Projects\coffee corner\coffee corner\obj\Debug\coffee_corner.Form1.resources
+C:\Users\ELCOT\Documents\Visual Studio 2012\Projects\coffee corner\coffee corner\obj\Debug\coffee_corner.Properties.Resources.resources
+C:\Users\ELCOT\Documents\Visual Studio 2012\Projects\coffee corner\coffee corner\obj\Debug\coffee corner.csproj.GenerateResource.Cache
+C:\Users\ELCOT\Documents\Visual Studio 2012\Projects\coffee corner\coffee corner\obj\Debug\coffee corner.exe
+C:\Users\ELCOT\Documents\Visual Studio 2012\Projects\coffee corner\coffee corner\obj\Debug\coffee corner.pdb
